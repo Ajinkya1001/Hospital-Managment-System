@@ -1,1 +1,1 @@
-
+The aim of the Hospital Management System (HMS) project is to develop a user-friendly system for efficient management of patient records, doctor information, and appointment scheduling. The project focuses on streamlining hospital operations, improving patient care, enhancing data management, increasing accessibility to information, and optimizing resource utilization.
